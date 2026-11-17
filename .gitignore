@@ -1,0 +1,11 @@
+# Operating-system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Logs
+*.log
